@@ -1,0 +1,33 @@
+Menu
+
+Query
+
+Enter token symbol, keyword, address, or tx hash (0x...)
+
+ 38K TXs of Gods Unchained Cards token today
+ Max transfer today 13,130 ETH
+ IDEX made 17K trades in 5 days
+Advertise Here
+API Token token_stat
+ Token Statistics at Token
+Number of token holders, supply and circulating amount
+
+Address of tokens
+token
+0xb8c77482e45f1f44de1745f52c74426c631bdd52
+required
+API Key
+ACCl2Ahg2n251
+Output format: structure, table, csv
+Hide optional parameters...
+CALL
+ Request
+https://api.bloxy.info/token/token_stat?token=0xb8c77482e45f1f44de1745f52c74426c631bdd52&key=ACCl2Ahg2n251&format=table
+ Response took null msec
+ 	Token address	Name	Symbol	Decimals	Type	Transfers count	First transfer	Latest transfer time	Total transfered amount	Unique senders count	Unique receivers count	Circulating supply	Holders count	Annotations on token address
+1	0xb8c77482e45f1f44de1745f52c74426c631bdd52	BNB	BNB	18.000000	ERC20	838,463.000000	Jul 7, 2017, 5:41:12 PM	Nov 13, 2019, 8:32:03 AM	1,044,773,139.187550	177,057.000000	478,927.000000	16,579,517.048204	310,597.000000	Mainnet Launched, https://www.binance.com/, Exchange, BNB, BinanceToken, Binance, Token Contract, Binance Token, BNB (BNB)
+© Bloxy.info, 2018-2019 
+Terms and Conditions 
+Privacy Policy 
+Contact us | Twitter  | Telegram  | YouTube 
+;
